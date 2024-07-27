@@ -39,9 +39,9 @@ Este é um projeto foi desenvolvido como forma de praticar praticar e aplicar co
 - Baixe o projeto em seu computador (clique no botão verde no alto na página "code" e clique em "Download ZIP".
 - Descompacte a pasta (use o software de sua preferência 7zip, winrar...).
 
-1. Clone o repositório para o seu ambiente local:
+1. Clone o repositório para o seu ambiente local
   
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto
 
 3. Instale as dependências necessárias:
 
