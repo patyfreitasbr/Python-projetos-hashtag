@@ -43,11 +43,7 @@ Este é um projeto foi desenvolvido como forma de praticar praticar e aplicar co
   
 2. Navegue até o diretório do projeto
 
-3. Instale as dependências necessárias:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+3. Instale as dependências necessárias (leia pre requisitos)
 
 ## Utilização
 
