@@ -15,6 +15,7 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 ## Projetos
 
 1. [Automação: Cadastro Produtos em site]()
+2. [Análise de vendas de produtos]()
 
 ## Como visualizar os projetos
 
