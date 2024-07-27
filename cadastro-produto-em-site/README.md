@@ -40,16 +40,8 @@ Este é um projeto foi desenvolvido como forma de praticar praticar e aplicar co
 - Descompacte a pasta (use o software de sua preferência 7zip, winrar...).
 
 1. Clone o repositório para o seu ambiente local:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-
+  
 2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd nome-do-repositorio
-   ```
 
 3. Instale as dependências necessárias:
 
