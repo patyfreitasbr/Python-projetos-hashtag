@@ -22,7 +22,7 @@ Este é um projeto foi desenvolvido como forma de praticar praticar e aplicar co
 
 ## Demonstração
 
-![Gif demonstração página]()
+![Gif demonstração página](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKeUdguTS7RkhPfzcsjQRRGkf_2qz3LEoouFBH689P64G2z3VkFP561rmWnbiYIZiRILNTftJgPb5u7r-Oz5sKFVQF9zxYKMXA0DVZSJ_yxqquSjMEgsjKZO4GbTmLYBKkSdrh5x-gjaFWN2m9PB924KWbBOCubVeoNF0MDz_aeyWXvkK0w2uPNqC79Kxq/s16000/Automa%C3%A7%C3%A3o-Cadastrodeprodutosemsite.gif)
 
 ## Funcionalidades
 
@@ -113,4 +113,4 @@ Se desejar contribuir com melhorias para este projeto, sinta-se à vontade para 
   
 <br>
 
-[![NPM](https://img.shields.io/npm/l/react)]()
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/patyfreitasbr/projetos-Python/blob/main/cadastro-produto-em-site/LICENSE)
