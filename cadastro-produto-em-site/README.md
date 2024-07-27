@@ -9,9 +9,7 @@
 - [Instalação](#instalacao)
 - [Utilização](#utilizacao)
 - [Estrutura do projeto](#estrutura-do-projeto)
-- [Instalação](#instalacao)
 - [Conclusão](conclusao)
-- [Contribuição](contribuicao)
 - [Contato](contato)
 
 # Descrição
@@ -97,10 +95,6 @@ Este é um projeto foi desenvolvido como forma de praticar praticar e aplicar co
 ## Conclusão
 
 Este projeto demonstra como a automação com Python pode ser uma ferramenta poderosa para otimizar tarefas repetitivas, aumentando a eficiência e minimizando erros. Sinta-se à vontade para adaptar o código para outras aplicações e melhorar sua produtividade no dia a dia.
-
-## Contribuição
-
-Se desejar contribuir com melhorias para este projeto, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
 
 ## Contato
 
