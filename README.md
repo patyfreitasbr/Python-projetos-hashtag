@@ -1,4 +1,4 @@
-# Projetos Python
+# Projetos Python: Automações e Análise de dados
 
 Bem-vindo ao meu repositório de projetos Python! Aqui você encontrará uma coleção de projetos que venho desenvolvendo durante meus estudos. Este repositório serve como um portfólio/um espaço de aprendizado contínuo, onde compartilho minha jornada e evolução nas Linguagens Python.
 
