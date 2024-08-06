@@ -9,7 +9,7 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 ## Índice 🔗
 
 - [Projetos](#projetos)
-- [Como visualizar o projeto](#Como-visualizar-o-projeto)
+- [Como visualizar cada projeto](#Como-visualizar-cada-projeto)
 - [Contato](#contato)
 
 ## Projetos
@@ -17,14 +17,10 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 1. [Automação: Cadastro produtos em site](https://github.com/patyfreitasbr/projetos-Python/tree/main/cadastro-produto-em-site)
 2. [Análise de vendas de produtos](https://github.com/patyfreitasbr/projetos-Python/tree/main/analise-de-vendas-de-produtos)
 
-## Como visualizar os projetos
+## Como visualizar cada projeto
 
-Para visualizar o projeto em seu navegador, siga os passos abaixo:
-
-1. Baixe o projeto em seu computador (clique no botão verde no alto na página "code" e clique em "Download ZIP".)
-2. Descompacte a pasta (use o software de sua preferência 7zip, winrar...).
-3. Clique no arquivo "index.html" e abrirá no seu navegador padrão.
-4. Siga os passos de exeucação descritos no readme do projeto.
+Clique nos link da sessão "Projeros" (acima)
+Escolha o projeto e clique sobe ele
 
 ## Contato
 
