@@ -19,8 +19,8 @@ Este repositório contém projetos variados, cada um abordando diferentes concei
 
 ## Como visualizar cada projeto
 
-Clique nos link da sessão "Projeros" (acima)
-Escolha o projeto e clique sobe ele
+- Clique nos link da sessão "Projeros" (acima)
+- Escolha o projeto e clique sobe ele
 
 ## Contato
 
