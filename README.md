@@ -1,7 +1,6 @@
 # Projetos Python: Automações e análise de dados
 
-Bem-vindo ao meu repositório de projetos Python! Aqui você encontrará uma coleção de projetos que venho desenvolvendo durante meus estudos.
-Projetos desenvolvidos durante livee e do Mini curso da **Hashtag Programação**
+Olá aqui você encontrará alguns projeto que desenvolvi durante lives e do Mini curso da **Hashtag Programação**
 
 ## Sobre📚
 
