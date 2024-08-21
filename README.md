@@ -4,7 +4,7 @@ Olá aqui você encontrará alguns projeto que desenvolvi durante lives e do Min
 
 ## Sobre📚
 
-Este repositório contém projetos variados, cada um abordando diferentes conceitos e técnicas em Python. Desde autmações a análise dadas, meu objetivo é demonstrar o conhecimento adquirido e a aplicação prática das habilidades nesta linguagem de programação.
+Este repositório contém projetos variados, cada um abordando diferentes conceitos e técnicas em Python. Desde automações a análise dadas, meu objetivo é demonstrar o conhecimento adquirido e a aplicação prática das habilidades nesta linguagem de programação.
 
 ## Índice 🔗
 
