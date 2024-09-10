@@ -1,30 +1,32 @@
-# Projetos Python
+# Análise de vendas de produtos
 
-Bem-vindo ao meu repositório de projetos Python! Aqui você encontrará uma coleção de projetos que venho desenvolvendo durante meus estudos. Este repositório serve como um portfólio/um espaço de aprendizado contínuo, onde compartilho minha jornada e evolução nas Linguagens Python.
+## Índice
 
-## Sobre📚
+- [Descrição](#descrição)
+- [Sobre](#sobre)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [tecnologias utilizadas](#tecnologias-utilizadas)
+- [Contribuição](contribuicao)
+- [Contato](contato)
 
-Este repositório contém projetos variados, cada um abordando diferentes conceitos e técnicas em Python. Desde exercícios simples até aplicações mais complexas, meu objetivo é demonstrar o conhecimento adquirido e a aplicação prática das habilidades nesta linguagem de programação.
+# Descrição
 
-## Índice 🔗
+O objetivo é demonstrar habilidades em automação de tarefas, análise de dados e outras aplicações em Python. Este é um projeto foi desenvolvido como forma de praticar praticar e aplicar conceitos de Python aprendidos durante minicurso da [Hashtag](https://hashtagtreinamentos.com "Site da Hashtag").
 
-- [Projetos](#projetos)
-- [Como visualizar o projeto](#Como-visualizar-o-projeto)
-- [Contato](#contato)
+# Sobre
 
-## Projetos
+Esse projeto executa a análise de dados de vendas, calculando o produto mais vendido, o produto com maior faturamento e a loja com maior faturamento.
 
-1. [Automação: Cadastro produtos em site](https://github.com/patyfreitasbr/projetos-Python/tree/main/cadastro-produto-em-site)
-2. [Análise de vendas de produtos]()
+## Estrutura do Projeto
 
-## Como visualizar os projetos
+- `src/curso_basico_python.py`: Script Python principal que realiza a análise dos dados de vendas.
+- `data/Vendas/`: Pasta que contém os arquivos CSV com os dados de vendas.
+- `requirements.txt`: Lista de bibliotecas necessárias para rodar o projeto.
 
-Para visualizar o projeto em seu navegador, siga os passos abaixo:
+## Tecnologias Utilizadas
 
-1. Baixe o projeto em seu computador (clique no botão verde no alto na página "code" e clique em "Download ZIP".)
-2. Descompacte a pasta (use o software de sua preferência 7zip, winrar...).
-3. Clique no arquivo "index.html" e abrirá no seu navegador padrão.
-4. Siga os passos de exeucação descritos no readme do projeto.
+- Python
+- Bibliotecas: Pandas e Plotly
 
 ## Contato
 
@@ -34,3 +36,7 @@ Para visualizar o projeto em seu navegador, siga os passos abaixo:
 
  <div><a href="https://www.linkedin.com/in/patyfreitasbr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
   <a href="https://www.instagram.com/patyfreitasbr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></></div>
+  
+<br>
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/patyfreitasbr/projetos-Python/blob/main/LICENSE)
